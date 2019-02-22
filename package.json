@@ -1,0 +1,8 @@
+{
+  "name": "http-to-socket-translator",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "repository": "https://github.com/anasayubi/http-to-socket-translator.git",
+  "author": "anasayubi <anasayubi7152@gmail.com>",
+  "license": "MIT"
+}
