@@ -4,5 +4,13 @@
   "main": "build/index.js",
   "repository": "https://github.com/anasayubi/http-to-socket-translator.git",
   "author": "anasayubi <anasayubi7152@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^11.9.4"
+  }
 }
